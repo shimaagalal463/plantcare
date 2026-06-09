@@ -1,4 +1,5 @@
 """Room humidity helpers."""
+# TODO: tie humidity hints to room reminders once schedules get smarter
 from __future__ import annotations
 
 from typing import Dict
